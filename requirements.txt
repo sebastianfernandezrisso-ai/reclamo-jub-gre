@@ -1,0 +1,6 @@
+streamlit
+supabase
+python-dotenv
+pandas
+reportlab
+psycopg2-binary
