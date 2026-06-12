@@ -488,7 +488,7 @@ if "mostrar_nuevo_reclamo" not in st.session_state:
 if "modo_edicion" not in st.session_state:
     st.session_state.modo_edicion = False
 
-st.title("Sistema de Reclamos")
+st.title("Registro de reclamo - Gremial/Jubilaciones")
 aplicar_estilo_menu_fijo()
 mostrar_menu_superior()
 
